@@ -1,0 +1,27 @@
+{
+  "pipeline": {
+    "path": "Data/pipeline.csv",
+    "fields": [
+      [
+        "Opportunity",
+        "opportunity_id",
+        "TEXT"
+      ],
+      [
+        "Stage",
+        "stage",
+        "TEXT"
+      ],
+      [
+        "Amount",
+        "amount",
+        "REAL"
+      ],
+      [
+        "Probability",
+        "probability",
+        "REAL"
+      ]
+    ]
+  }
+}

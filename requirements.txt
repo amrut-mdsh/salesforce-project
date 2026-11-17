@@ -1,0 +1,2 @@
+# Python 3.10+ and SQLite 3.25+; standard library only.
+# Power BI Desktop / Microsoft Excel are separate optional desktop applications.
